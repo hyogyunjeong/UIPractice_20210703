@@ -41,6 +41,13 @@
         android:hint="추천해준 사람의 닉네임 입력"
         android:imeOptions="actionSearch"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="회원가입 진행"
+
+
+
 
 
 
